@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-oeybor.nuansa138b.space/sitemap.xml
